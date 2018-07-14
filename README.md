@@ -1,0 +1,1 @@
+##Eric Freeman - Head First Design Patterns - 2004
